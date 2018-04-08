@@ -1,0 +1,25 @@
+baseURL = "https://walktall.github.io/"
+languageCode = "en-us"
+title = "Notes"
+theme = "hyde-hyde"
+
+[params]
+  author = "Zhiheng"
+  description = "Just some notes..."
+  dateformat = "Jan 2, 2006"
+  highlightjs = true
+  highlightjsstyle = "github"
+
+[params.social]
+  github = "walktall"
+  twitter = "ObserverDaemon"
+  email = "zh-@outlook.com"
+
+[[menu.main]]
+  name = "Posts"
+  weight = 100
+  url = "/posts/"
+[[menu.main]]
+  name = "About"
+  weight = 200
+  url = "/about/"
