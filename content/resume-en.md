@@ -1,5 +1,6 @@
 ---
-type : "about"
+title: "Resume"
+date: 2018-04-10
 ---
 
 ### Basic Information
