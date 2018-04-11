@@ -12,7 +12,7 @@ theme = "minimal"
   backgroundColor = "white"
   font = "Open Sans"
   highlight = true
-  highlightStyle = "solarized-dark"
+  highlightStyle = "atom-one-dark"
   highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
 [[menu.main]]
