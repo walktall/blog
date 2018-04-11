@@ -11,6 +11,7 @@ theme = "minimal"
   showBorder = true
   backgroundColor = "white"
   font = "Open Sans"
+  favicon = "favicon.ico"
   highlight = true
   highlightStyle = "atom-one-dark"
   highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
