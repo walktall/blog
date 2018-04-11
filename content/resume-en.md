@@ -7,8 +7,6 @@ date: 2018-04-10
 
 * Male 27 years old
 * Bachelor degree in Computer Science and Technology, Beijing University of Technology
-* E-mail: zh-@outlook.com
-* Github: https://github.com/walktall
 
 ### Skills
 

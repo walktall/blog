@@ -7,8 +7,6 @@ date: 2018-04-10
 
 * 男 27 岁
 * 北京工业大学 计算机科学与技术 本科
-* 邮箱：zh-@outlook.com
-* Github: https://github.com/walktall
 
 ### 技能
 
