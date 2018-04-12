@@ -1,4 +1,4 @@
-baseURL = "https://walktall.github.io/"
+baseURL = "http://hzh.moe/"
 languageCode = "zh-cn"
 title = "Notes"
 theme = "minimal"
