@@ -1,4 +1,4 @@
-baseURL = "http://hzh.moe/"
+baseURL = "https://hzh.moe/"
 languageCode = "zh-cn"
 title = "Notes"
 theme = "minimal"
